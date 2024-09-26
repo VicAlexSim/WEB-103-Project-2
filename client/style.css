@@ -1,8 +1,12 @@
 /* Root Styles CSS */
 :root {
-  background-color: white;
+  /* Existing styles */
+  background-color: rgb(69, 116, 158); /* You can remove this if it conflicts with the background image */
   font-family: Avenir, Helvetica, sans-serif;
-  color: black;
+  color: rgb(28, 60, 94);
+  background-image: url('./public/background.png'); /* Add your desired background image URL here */
+  background-size: cover; /* Ensures the image covers the entire background */
+  background-position: center; /* Centers the background image */
 }
 
 /* Header CSS */
@@ -14,8 +18,8 @@
 
 .header-left {
   float: left;
-  height: 100px;
-  width: 310px;
+  height: 200px;
+  width: 520px;
 }
 
 .header-left img {
@@ -25,7 +29,7 @@
 
 .header-left h1 {
   float: right;
-  font-size: 45px;
+  font-size: 30px;
   
 }
 
@@ -62,12 +66,12 @@ main {
 }
 
 .card {
-  width: 300px;
+  width: 200px;
   height: 400px;
-  background: transparent;
+  background-color: rgba(115, 140, 161, 0.75);
   border-style: solid;
   border-width: 3px;
-  border-color: rgb(3, 7, 89);
+  border-color: rgb(149, 159, 180);
   border-radius: 0.3rem;
   box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.057);
   margin-top: 0px;
@@ -88,7 +92,7 @@ main {
 }
 
 .bottom-container {
-  margin-top:30px;
+  margin-top: 30px;
   margin-left: 10px;
 }
 
@@ -102,7 +106,7 @@ main {
 }
 
 .bottom-container a {
-  color: rgb(228, 16, 133);
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 
@@ -113,7 +117,7 @@ main {
   width: 100%;
   height: 100vh;
   text-align: center;
-  color: black;
+  color: rgb(0, 0, 0);
 }
 
 .fof {
@@ -152,4 +156,8 @@ main {
 
 .gift-details {
   width: 45vw;
+  background-color: rgba(115, 140, 161, 0.75); /* Sets a white background with 75% opacity */
+  padding: 20px; /* Adds some padding around the text */
+  border-radius: 10px; /* Optional: rounds the corners of the textbox */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow for depth */
 }

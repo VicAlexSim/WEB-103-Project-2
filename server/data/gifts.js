@@ -1,93 +1,93 @@
 const giftData = [
     {
         "id": 1,
-        "name": "Disco Ball Candle",
-        "pricePoint": "$",
-        "audience": "Candle Lovers",
-        "image":"https://tinyurl.com/39xc9h6y",
-        "description":"A party in a candle",
-        "submittedBy":"Sasha",
-        "submittedOn":"2022-09-04T14:48:00"
+        "name": "Lyfe",
+        "pricePoint": "Free & Paid",
+        "audience": "DPS",
+        "image":"https://static.dotgg.gg/snowbreak/images/pose/girl/icon_girl002_800.webp",
+        "description":"One of the first operatives you come across whilst on duty. Aloof in nature.",
+        "submittedBy":"Asami Seto",
+        "submittedOn":"July 20th 2023"
     },
     {
         "id": 2,
-        "name": "Lego Flower Bouquet Kit",
-        "pricePoint": "$",
-        "audience": "Green Thumbs",
-        "image":"https://tinyurl.com/ydpv2bt9",
-        "description":"A gift and fun activity to do together",
-        "submittedBy":"Isabel",
-        "submittedOn":"2023-02-14T12:32:00"
+        "name": "Fenny",
+        "pricePoint": "Free & Paid",
+        "audience": "DPS",
+        "image":"https://static.dotgg.gg/snowbreak/images/pose/girl/icon_girl008_800.webp",
+        "description":"Another Operative you first encounter whilst on duty. Self-centered in nature.",
+        "submittedBy":"Mayu Sagara",
+        "submittedOn":"July 20th 2023"
     },
     {
         "id": 3,
-        "name": "Nintendo Switch Lite",
-        "pricePoint": "$$",
-        "audience": "Gamers",
-        "image":"https://tinyurl.com/2cdfe59x",
-        "description":"A gift for gamers on-the-go",
-        "submittedBy":"Mario",
-        "submittedOn":"2022-09-13T11:01:00"
+        "name": "Fritia",
+        "pricePoint": "Free & Paid",
+        "audience": "DPS",
+        "image":"https://static.dotgg.gg/snowbreak/images/pose/girl/icon_girl004_800.webp",
+        "description":"An operative that deals with tech. Bubbly in nature.",
+        "submittedBy":"Shiori Izawa",
+        "submittedOn":"July 20th 2023"
     },
     {
         "id": 4,
-        "name": "Nike Panda Dunks",
-        "pricePoint": "$$",
-        "audience": "Sneakerheads",
-        "image":"https://tinyurl.com/y9bzv8xd",
-        "description":"A fan-favorite black and white color-blocking sneaker",
-        "submittedBy":"Jason",
-        "submittedOn":"2023-03-10T05:23:00"
+        "name": "Haru",
+        "pricePoint": "Paid",
+        "audience": "SubDPS",
+        "image":"https://static.dotgg.gg/snowbreak/images/pose/girl/icon_girl006_800.webp",
+        "description":"A veteran operative from the first cohort of soldiers. She is a risk taker.",
+        "submittedBy":"Shizuka Ishigami",
+        "submittedOn":"July 20th 2023"
     },
     {
         "id": 5,
-        "name": "Razer Kitty Headset",
-        "pricePoint": "$$",
-        "audience": "Gamers",
-        "image":"https://tinyurl.com/4pt84wry",
-        "description":"Create the purrfect gaming look with your own killer kitty style",
-        "submittedBy":"Pixie",
-        "submittedOn":"2011-10-10T14:48:00"
+        "name": "Yao",
+        "pricePoint": "Paid",
+        "audience": "Support/DPS",
+        "image":"https://static.dotgg.gg/snowbreak/images/pose/girl/icon_girl010_800.webp",
+        "description":"A field operative who specializes in long-range attacks. She yearns for a simple life.",
+        "submittedBy":"Yōko Hikasa",
+        "submittedOn":"July 20th 2023"
     },
     {
         "id": 6,
-        "name": "Nellsi Sunset Lamp Projection",
-        "pricePoint": "$",
-        "audience": "Sungazers",
-        "image":"https://tinyurl.com/y76zsc37",
-        "description":"Sunshine any time, any place",
-        "submittedBy":"Melody",
-        "submittedOn":"2011-10-10T14:48:00"
+        "name": "Enya",
+        "pricePoint": "Paid",
+        "audience": "Support",
+        "image":"https://static.dotgg.gg/snowbreak/images/pose/girl/icon_girl011_800.webp",
+        "description":"A kind operative that most can confide with. Seeks to help others.",
+        "submittedBy":"Yui Horie",
+        "submittedOn":"July 20th 2023"
     },
     {
         "id": 7,
-        "name": "Frigidaire Retro Mini Fridge",
-        "pricePoint": "$",
-        "audience": "Foodies",
-        "image":"https://tinyurl.com/dzyhec8a",
-        "description":"A retro way of keeping things cool",
-        "submittedBy":"Grover",
-        "submittedOn":"2023-01-01T14:48:00"
+        "name": "Marian",
+        "pricePoint": "Paid",
+        "audience": "SubDPS",
+        "image":"https://static.dotgg.gg/snowbreak/images/pose/girl/icon_girl005_800.webp",
+        "description":"An operative that specializes in covert operations. Is well-mannered.",
+        "submittedBy":"Kana Yuuki",
+        "submittedOn":"July 20th 2023"
     },
     {
         "id": 8,
-        "name": "Crosley Discover Turntable",
-        "pricePoint": "$",
-        "audience": "Music Lovers",
-        "image":"https://tinyurl.com/4vycxmkm",
-        "description":"A portable turntable that is ready to play right out of the box",
-        "submittedBy":"Marvin",
-        "submittedOn":"2023-04-01T07:02:00"
+        "name": "Katya",
+        "pricePoint": "Paid",
+        "audience": "DPS",
+        "image":"https://static.dotgg.gg/snowbreak/images/pose/girl/icon_girl015_800.webp",
+        "description":"A covert operative that knows how to get what she wants. Is fierce in nature.",
+        "submittedBy":"Mariya Ise",
+        "submittedOn":"July 20th 2023"
     },
     {
         "id": 9,
-        "name": "Brandon Blackwood Parker Bag",
-        "pricePoint": "$$",
-        "audience": "Fashionistas",
-        "image":"https://tinyurl.com/2n6pszw7",
-        "description":"A perfect pop of color",
-        "submittedBy":"Brandon",
-        "submittedOn":"2023-01-10T14:48:00"
+        "name": "Tess",
+        "pricePoint": "Paid",
+        "audience": "Support",
+        "image":"https://static.dotgg.gg/snowbreak/images/pose/girl/icon_girl017_800.webp",
+        "description":"A new operative to the field. Is extroverted in nature.",
+        "submittedBy":"Satomi Akesaka",
+        "submittedOn":"July 20th 2023"
     }
   ]
   

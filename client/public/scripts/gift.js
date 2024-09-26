@@ -9,13 +9,13 @@ const renderGift = async () => {
         document.getElementById("image").src = gift.image;
         document.getElementById("name").textContent = gift.name;
         document.getElementById("submittedBy").textContent = 
-            "Submitted by: " + gift.submittedBy;
+            "Voiced by: " + gift.submittedBy;
         document.getElementById("pricePoint").textContent = 
             "Price: " + gift.pricePoint;
         document.getElementById("audience").textContent = 
             "Great For: " + gift.audience;
         document.getElementById("description").textContent = gift.description;
-        document.title = `UnEarthed – ${gift.name}`;
+        document.title = `Snowbreak Containment Zone – ${gift.name}`;
     } else {
         const message = document.createElement("h2");
         message.textContent = "No Gifts Available 😕";
