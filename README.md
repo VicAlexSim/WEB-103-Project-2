@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='./SnowbreakListicleGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/UoUR3qi"  ><a href="//imgur.com/a/UoUR3qi">Snowbreak Character Listicle App</a></blockquote>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/eF40Q66"  ><a href="//imgur.com/a/eF40Q66">Snowbreak Character Listicle App</a></blockquote>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  EZGif, Imgur, and OBS
