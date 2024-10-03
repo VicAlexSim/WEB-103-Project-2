@@ -1,10 +1,10 @@
-# WEB103 Project 1 - *Snowbreak Containment Zone Character List/Stats*
+# WEB103 Project 2 - *Snowbreak Containment Zone Character List/Stats + DataBase*
 
 Submitted by: **Victor Sim**
 
-About this web app: **Listicle of Characters from the Game Snowbreak: Containment Zone**
+About this web app: **Listicle of Characters from the Game Snowbreak: Containment Zone and is connected to a PostGRES Database hosted on Railway**
 
-Time spent: **8** hours
+Time spent: **4** hours
 
 ## Required Features
 
@@ -12,16 +12,13 @@ The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
 - [✅] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
-- [✅] **The web app displays a title**
-- [✅] **The web app displays at least five list items, each with at least three attributes (such as title, text, and image url)**
-- [✅] **The user can click on each item in the list to see a detailed view of it, including all database fields**
-    - [✅] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation* 
-- [✅] **The web app serves an appropriate 404 page when no matching route is defined**
-- [✅] **The web app is appropriately styled using Picocss**
+- [✅] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
+- [✅] **The PostgreSQL database includes a table that matches the data displayed in the web app**
+  - [✅] **NOTE: Your GIF or a screenshot added to the README must include a view of your Railway database that shows the contents of the table used by your app**
 
 The following **optional** features are implemented:
 
-- [✅] The web app displays items in a unique format, such as cards rather than lists
+- [ ] The user can search for items with a specific attribute
 
 The following **additional** features are implemented:
 
@@ -31,8 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='./SnowbreakListicleGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/eF40Q66"  ><a href="//imgur.com/a/eF40Q66">Snowbreak Character Listicle App</a></blockquote>
+<img src='./SnowbreakListicleGif2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/DUfbTqT"  ><a href="//imgur.com/a/DUfbTqT">Snowbreak Character Stats/Listicle App + Database</a></blockquote>s
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  EZGif, Imgur, and OBS
@@ -44,7 +41,7 @@ GIF created with ...  EZGif, Imgur, and OBS
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add: 
-I had some trouble with routing everything and making sure datatypes matched throughout the calls between the server and client. Styling to my liking was also a bit of a challenge but other than that the lab allowed me to learn this listicle app for the most part. I didn't want to go rename everything so I used the lab as a template of sorts and messed around with it more in the end. I wanted to make something for a game I liked that did not have a very central type of website for its fanbase. I hope I can improve on this later and deploy it.
+I had some trouble with routing everything and getting datatypes to work with the PostGres Database. Also getting the database connected with the right keys and such was a little irritating. I didn't want to go rename everything so most of the project resembles a good chunk of the lab used as a template of sorts and messed around with it more in the end. I wanted to make something for a game I liked that did not have a very central type of website for its fanbase. I hope I can improve on this later and deploy it properly on vercel or something.
 
 ## License
 
