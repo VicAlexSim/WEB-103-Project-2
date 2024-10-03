@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='./SnowbreakListicleGif2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/DUfbTqT"  ><a href="//imgur.com/a/DUfbTqT">Snowbreak Character Stats/Listicle App + Database</a></blockquote>s
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/DUfbTqT"  ><a href="//imgur.com/a/DUfbTqT">Snowbreak Character Stats/Listicle App + Database</a></blockquote>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  EZGif, Imgur, and OBS
@@ -41,7 +41,7 @@ GIF created with ...  EZGif, Imgur, and OBS
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add: 
-I had some trouble with routing everything and getting datatypes to work with the PostGres Database. Also getting the database connected with the right keys and such was a little irritating. I didn't want to go rename everything so most of the project resembles a good chunk of the lab used as a template of sorts and messed around with it more in the end. I wanted to make something for a game I liked that did not have a very central type of website for its fanbase. I hope I can improve on this later and deploy it properly on vercel or something.
+I had some trouble with routing everything and getting datatypes (as u can see some are undefined in the gif) to work with the PostGres Database. Also getting the database connected with the right keys and such was a little irritating. I didn't want to go rename everything so most of the project resembles a good chunk of the lab used as a template of sorts and messed around with it more in the end. I wanted to make something for a game I liked that did not have a very central type of website for its fanbase. I hope I can improve on this later and deploy it properly on vercel or something.
 
 ## License
 
